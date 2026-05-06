@@ -3,7 +3,7 @@ const fs = require("fs");
 const axios = require("axios");
 
 module.exports.config = {
-  name: "দুধ",
+  name: "dud",
   version: "1.0.0",
   hasPermssion: 2,
   credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
